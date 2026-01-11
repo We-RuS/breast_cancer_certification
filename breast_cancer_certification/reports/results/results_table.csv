@@ -1,7 +1,0 @@
-﻿Model,Test Score,CV Accuracy,Best parameters
-logistic_regression,0.9666666666666667,0.9748701298701299,"{'C': 0.1, 'solver': 'liblinear'}"
-knn,0.9416666666666667,0.9747402597402598,"{'metric': 'euclidean', 'n_neighbors': 5, 'weights': 'uniform'}"
-swm_linear,0.9666666666666667,0.9711688311688311,{'C': 0.1}
-random_forest,0.9333333333333333,0.9676623376623376,"{'max_depth': None, 'min_samples_split': 10, 'n_estimators': 100}"
-swm_rbf,0.9666666666666667,0.9675974025974027,"{'C': 100, 'gamma': 0.001}"
-decision_tree,0.9416666666666667,0.9425324675324676,"{'criterion': 'entropy', 'max_depth': 30, 'min_samples_leaf': 2, 'min_samples_split': 5}"
